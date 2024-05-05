@@ -1,9 +1,9 @@
 {
-  "fnmods_update": [
+  "MODDED BY 💖 𝙷𝚊𝚌𝚔𝙼𝚘𝚍𝚜𝙰𝚙𝚔𝟷 💖": [
     {
  "version":"9.62",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "title":"Update Found",
+ "description":"Upload In New Version 
 
 Base: 2.23 1.76
 
